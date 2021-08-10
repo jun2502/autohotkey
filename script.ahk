@@ -231,13 +231,6 @@ Alt & Tab::AltTabAndMenu
 
 
 
-~vk1C & z::Send,a
-
-
-
-
-
-
 
 
 
